@@ -18,6 +18,7 @@ sections:
 - type: document
   path: src/_data/tokens.json
   label: Theme settings
+  read_only: true
 upload_dir: src/images
 public_path: "/images"
 front_matter_path: ''
